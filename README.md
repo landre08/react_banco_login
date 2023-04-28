@@ -1,5 +1,5 @@
 # **Instruções**
-## Aplicação utilizando React JS - Com ou sem Context API
+## Aplicação utilizando React JS - Com banco de dados e login - Lista de Tarefas
 
 _Instalação do Sistema:_
 
